@@ -17,7 +17,6 @@ The main idea is to start by writing a failing test with the expected behaviour 
 
 Process a list of invoices and produce the following statistics:
 
-* Total number of invoices per organisation
 * Number of unpaid invoices per organisation
 * Number of overdue invoices per organisation
 * Number of paid invoices per organisation per month
